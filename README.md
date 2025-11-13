@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AgendaPHP_2025
-=======
 # 📅 Agenda Eletrônica com PHP e PDO
 
 Bem-vindo ao projeto de **Agenda Eletrônica**, uma solução desenvolvida em PHP procedural com PDO que simplifica o gerenciamento de contatos de forma segura e eficiente. Com um design moderno baseado no tema **Admin LTE**, este sistema oferece uma interface intuitiva e responsiva, ideal para atender às necessidades de usuários que buscam praticidade no seu dia a dia.
@@ -69,4 +66,3 @@ A licença MIT permite o uso livre do software, incluindo modificação e distri
 
 **Pronto para começar?** Experimente esta Agenda Eletrônica e descubra uma nova forma de gerenciar seus contatos!
 
->>>>>>> V_full
